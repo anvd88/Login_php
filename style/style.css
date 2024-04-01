@@ -52,7 +52,7 @@ body{
 .btn{
     height: 35px;
     
-    background: rgba(76,68,182,0.808);
+    background: rgba(126, 12, 120, 0.808);
     border: 0;
     border-radius: 5px;
     color: #fff;
@@ -136,3 +136,5 @@ main{
     margin-bottom: 10px;
     color: red;
 }
+
+

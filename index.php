@@ -38,7 +38,7 @@
                      
                      
                    echo "<a href='index.php'><button class='btn'>Go Back</button>";
-                   echo "<a href='index.php'><button class='btn'>Go Back</button>";
+                   
                 
             
                
